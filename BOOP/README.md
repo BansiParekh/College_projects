@@ -12,8 +12,8 @@
 
 # Screenshots (Output)
 <div align="center">
-  <img src="![image](https://github.com/BansiParekh/College_projects/assets/137907186/8f30d188-500d-493f-b948-23dbeeb4ea70)" alt="Image 1" width="300" height="625" />
-  <img src="![image](https://github.com/BansiParekh/College_projects/assets/137907186/8f30d188-500d-493f-b948-23dbeeb4ea70)" alt="Image 2" width="300" height="625" />
+  <img src="(https://github.com/BansiParekh/College_projects/assets/137907186/8f30d188-500d-493f-b948-23dbeeb4ea70)" alt="Image 1" width="300" height="625" />
+  <img src="(https://github.com/BansiParekh/College_projects/assets/137907186/8f30d188-500d-493f-b948-23dbeeb4ea70)" alt="Image 2" width="300" height="625" />
 </div>
 
 
